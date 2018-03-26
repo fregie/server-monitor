@@ -1,0 +1,14 @@
+{
+    "log_file": "/var/log/monitor.log",
+    "tmp_file": "./monitor.tmp",
+    "influxDB_host": "*",
+    "influxDB_port": 8086,
+    "influxDB_user": "*",
+    "influxDB_pswd": "*",
+    "influxDB_DBname": "collectd",
+    "YP_APIKEY": "your-yunpian-apikey",
+    "alert_numbers": ["your-phone-number"],
+    "server_types": ["zhenjiang"],
+    "interval": 10,
+    "bottom_line": 100
+}
